@@ -1,5 +1,3 @@
-# Coursera-tidy-project
-Final project for Getting and Cleaning Data
 The script will create a directory C:\coursera\GetAndCleanData\final if one does not exist. 
 It will then download the  file “https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip" into a the above directory with the name "Getting_and_Cleaning_Data.zip"
 The file will be unzipped then read into R as tables. 
